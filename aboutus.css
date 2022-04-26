@@ -1,0 +1,5 @@
+.bg{
+    background-image: linear-gradient(orange , white , green );
+    color:blue;
+    background-size:cover;
+}

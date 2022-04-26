@@ -1,0 +1,14 @@
+.x{
+    margin:10px;
+    height:auto;
+    opacity:0.9;
+}
+.y{
+    background-image: url('https://cdn.discordapp.com/attachments/595223532322029569/834796438881173544/unknown.png');
+    background-size:cover;
+    height:100vh;
+}
+.subcontainer{
+    background-color:slateblue;
+    padding:0px;
+}

@@ -1,0 +1,15 @@
+._bgc{
+    background-image: linear-gradient(#ffe5d9 ,#ffd7ba,#FEC89A);
+    background-size:cover;
+    height: 100vh;
+    color:white;
+}
+
+.data{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    color:black;
+    font-family: "Roboto";
+}
